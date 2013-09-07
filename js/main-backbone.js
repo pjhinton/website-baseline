@@ -8,13 +8,13 @@ requirejs.config(
 			"util/bootstrap": {
 				deps: ["util/jquery"]
 			},
-			"util/jquery" : {
+			"util/jquery": {
 				exports: "$"
 			},
 			"util/underscore": {
 				exports: "_"
 			}
-		},
+		}
 	}
 );
 
