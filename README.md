@@ -4,7 +4,7 @@ website-baseline
 Provides a minimal website directory tree and some useful libraries.
 
 * Backbone.js 1.1.2
-* Ember.js 1.4.0
+* Ember.js 1.5.0
 * Font Awesome 4.0.3
 * Handlebars 1.3.0
 * jQuery 2.1.0
