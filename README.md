@@ -11,7 +11,7 @@ Provides a minimal website directory tree and some useful libraries.
 * LESS 1.7.0
 * Mustache.js 0.8.1
 * RequireJS 2.1.11
-* RequireJS Text 2.0.10
+* RequireJS Text 2.0.12
 * Twitter Bootstrap 3.1.1
 * Underscore 1.6.0
 
