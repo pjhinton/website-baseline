@@ -1,5 +1,4 @@
-website-baseline
-================
+
 
 Provides a minimal website directory tree and some useful libraries.
 
@@ -12,6 +11,6 @@ Provides a minimal website directory tree and some useful libraries.
 * Mustache.js 0.8.2
 * RequireJS 2.1.14
 * RequireJS Text 2.0.12
-* Twitter Bootstrap 3.1.1
+* Twitter Bootstrap 3.2.0
 * Underscore 1.6.0
 
