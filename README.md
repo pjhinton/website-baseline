@@ -3,7 +3,7 @@
 Provides a minimal website directory tree and some useful libraries.
 
 * Backbone.js 1.1.2
-* Ember.js 1.5.1
+* Ember.js 1.6.0
 * Font Awesome 4.1.0
 * Handlebars 1.3.0
 * jQuery 2.1.1
