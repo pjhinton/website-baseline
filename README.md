@@ -12,5 +12,5 @@ Provides a minimal website directory tree and some useful libraries.
 * RequireJS 2.1.14
 * RequireJS Text 2.0.12
 * Twitter Bootstrap 3.2.0
-* Underscore 1.6.0
+* Underscore 1.7.0
 
