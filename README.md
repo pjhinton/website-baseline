@@ -9,7 +9,7 @@ Provides a minimal website directory tree and some useful libraries.
 * jQuery 2.1.4
 * LESS 2.5.0
 * Mustache.js 2.0.0
-* RequireJS 2.1.17
+* RequireJS 2.1.18
 * RequireJS Text 2.0.12
 * Twitter Bootstrap 3.3.4
 * Underscore 1.8.3
