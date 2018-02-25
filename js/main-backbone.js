@@ -5,7 +5,7 @@ requirejs.config(
 				deps: ["util/jquery", "util/underscore"],
 				exports: "Backbone"
 			},
-			"util/bootstrap": {
+			"util/bootstrap.bundle": {
 				deps: ["util/jquery"]
 			},
 			"util/jquery": {
@@ -13,17 +13,18 @@ requirejs.config(
 			},
 			"util/underscore": {
 				exports: "_"
-			}
+			},
 		}
 	}
 );
 
 require(
 
-	["util/jquery", "util/bootstrap", "util/underscore", "util/backbone", "util/mustache",
-		"text!templates/hello.mustache"],
+	["util/jquery", "util/bootstrap.bundle", "util/underscore", 
+        "util/backbone", "util/mustache", "util/fontawesome-all",
+        "text!templates/hello.mustache"],
 
-	function ($, bootstrapUndefined, _, Backbone, Mustache, hello) {
+	function ($, bootstrapUndefined, _, Backbone, Mustache, fa, hello) {
 
 		$(document).ready(
 			function () {
